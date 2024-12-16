@@ -1,0 +1,9 @@
+{
+	"name": "adfforgitriy",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c7943bdc-09fc-417b-82f5-056eb8ca9ac4",
+		"tenantId": "eb21f91a-57e1-4d3c-9680-2840d14a9a66"
+	}
+}
